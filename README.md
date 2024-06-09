@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- ⚡ Fun fact: **I can design UIs that look good on any screen, even grandma's flip phone.**
+- ⚡ Fun fact: **I  can design UIs that look good on any screen, even grandma's flip phone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
